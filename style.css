@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
-
+<html>
+<head>
+<title>styles</title>
+</head>
 body {
     background: #e9e9e9;
     background-image: url('background.jpg');
@@ -115,4 +118,5 @@ a {
               transform: translate3d(-75%, 0%, 0);
     }
   }
-  
+</body>
+</html>
